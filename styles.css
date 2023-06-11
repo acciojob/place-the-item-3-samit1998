@@ -1,2 +1,44 @@
-
+.holder{
+	height: 400px;
+	width: 400px;
+	border: 2px solid black;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.item1{
+	height: 100px;
+	width: 100px;
+	background-color:green;
+}
+.item1{
+	height: 100px;
+	width: 100px;
+	background-color:pink;
+}
+.item1{
+	height: 100px;
+	width: 100px;
+	background-color:pink;
+}
+.item2{
+	height: 100px;
+	width: 100px;
+	background-color:green;
+}
+.item3{
+	height: 100px;
+	width: 100px;
+	background-color:violet;
+}
+.item4{
+	height: 100px;
+	width: 100px;
+	background-color:skyblue;
+}
+.item5{
+	height: 100px;
+	width: 100px;
+	background-color:blue;
+}
 /* Your CSS Code here. */
